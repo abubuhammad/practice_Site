@@ -1,6 +1,39 @@
 import axios from 'axios';
 
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000/api';
+const RAW_API_URL = (process.env.REACT_APP_API_URL || '').trim();
+
+function normalizeApiBase(raw) {
+  try {
+    if (!raw) return '';
+    const u = new URL(raw);
+    // Ensure the path includes "/api" at the start
+    let path = u.pathname || '/';
+    if (!path.startsWith('/')) path = '/' + path;
+    if (path === '/' || path === '') {
+      u.pathname = '/api';
+    } else if (!path.startsWith('/api')) {
+      // Append "/api" to existing path if it doesn't already start with /api
+      if (path.endsWith('/')) {
+        u.pathname = path + 'api';
+      } else {
+        u.pathname = path + '/api';
+      }
+    }
+    // Remove trailing slash
+    const normalized = u.toString().replace(/\/$/, '');
+    return normalized;
+  } catch (e) {
+    return raw;
+  }
+}
+
+let API_BASE_URL = normalizeApiBase(RAW_API_URL);
+if (!API_BASE_URL) {
+  const defaultBase = process.env.NODE_ENV === 'production'
+    ? 'https://backend-production-3aca.up.railway.app'
+    : 'http://localhost:5000';
+  API_BASE_URL = normalizeApiBase(defaultBase);
+}
 
 // Create axios instance
 const api = axios.create({
