@@ -1,0 +1,805 @@
+﻿{
+    "questions":  [
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 1"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 2"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 3"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 4"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 5"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 6"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 7"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 8"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 9"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 10"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 11"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 12"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 13"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 14"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 15"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 16"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 17"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 18"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 19"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 20"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 21"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 22"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 23"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 24"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 25"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 26"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 27"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 28"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 29"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 30"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 31"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 32"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 33"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 34"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 35"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 36"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 37"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 38"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 39"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 40"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 41"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 42"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 43"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 44"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 45"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 46"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 47"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 48"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 49"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 50"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 51"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 52"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 53"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 54"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 55"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 56"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 57"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 58"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 59"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 60"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 61"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 62"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 63"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 64"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 65"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 66"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 67"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 68"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 69"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 70"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 71"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 72"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 73"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 74"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 75"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 76"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 77"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 78"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 79"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 80"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 81"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 82"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 83"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 84"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 85"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 86"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 87"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 88"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 89"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 90"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 91"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 92"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 93"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 94"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 95"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 96"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 97"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 98"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 99"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 100"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 101"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 102"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 103"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 104"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 105"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 106"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 107"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 108"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 109"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 110"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 111"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 112"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 113"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 114"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 115"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 116"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 117"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 118"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 119"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 120"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 121"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 122"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 123"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 124"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 125"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 126"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 127"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 128"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 129"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 130"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 131"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 132"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 133"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 134"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 135"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 136"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 137"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 138"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 139"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 140"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 141"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 142"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 143"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 144"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 145"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 146"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 147"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 148"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 149"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 150"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 151"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 152"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 153"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 154"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 155"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 156"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 157"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 158"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 159"
+                      },
+                      {
+                          "question_type":  "single_choice",
+                          "explanation":  "",
+                          "text":  "AZ-900 Placeholder Question 160"
+                      }
+                  ],
+    "exam_code":  "AZ-900"
+}

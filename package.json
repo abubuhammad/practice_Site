@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dp900:template": "node backend/scripts/prepare-dp900-template.js"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  },
+  "devDependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
