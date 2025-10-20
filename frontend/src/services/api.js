@@ -43,18 +43,19 @@ const api = axios.create({
   },
 });
 
-// Request interceptor to add token
+// Request interceptor: ensure relative URL (no leading slash) and add token
 api.interceptors.request.use(
   (config) => {
+    if (typeof config.url === 'string' && config.url.startsWith('/')) {
+      config.url = config.url.slice(1);
+    }
     const token = localStorage.getItem('token');
     if (token) {
       config.headers.Authorization = `Bearer ${token}`;
     }
     return config;
   },
-  (error) => {
-    return Promise.reject(error);
-  }
+  (error) => Promise.reject(error)
 );
 
 // Response interceptor to handle errors
